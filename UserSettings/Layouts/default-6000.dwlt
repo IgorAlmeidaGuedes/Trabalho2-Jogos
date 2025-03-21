@@ -69,8 +69,8 @@ MonoBehaviour:
     y: 0
     width: 313
     height: 623
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 76}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -95,8 +95,8 @@ MonoBehaviour:
     y: 0
     width: 184
     height: 378
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 226}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -425,7 +425,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 503
+    y: 402
     width: 1052
     height: 219
   m_SerializedDataModeController:
@@ -469,7 +469,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 79}
     m_SelectedIDs: ac260100
     m_LastClickedID: 75436
-    m_ExpandedIDs: 00000000282601002a2601002c2601002e2601003026010032260100ae2601003e09db0000ca9a3bffffff7f
+    m_ExpandedIDs: 000000008e2701009027010092270100942701009627010098270100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -498,7 +498,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000282601002a2601002c2601002e2601003026010032260100
+    m_ExpandedIDs: 000000008e2701009027010092270100942701009627010098270100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -577,8 +577,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1053
-    y: 125
+    x: 1054
+    y: 24
     width: 312
     height: 597
   m_SerializedDataModeController:
@@ -627,7 +627,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 125
+    y: 24
     width: 183
     height: 352
   m_SerializedDataModeController:
@@ -692,8 +692,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 184
-    y: 125
+    x: 185
+    y: 24
     width: 867
     height: 352
   m_SerializedDataModeController:
@@ -1286,7 +1286,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.059512798, y: -0.15738437, z: 0.009563701, w: -0.9857468}
     speed: 2
-    m_Value: {x: -0.059509832, y: -0.15737653, z: 0.009563224, w: -0.9856977}
+    m_Value: {x: -0.0595128, y: -0.15738437, z: 0.009563701, w: -0.98574686}
   m_Size:
     m_Target: 47.506245
     speed: 2
