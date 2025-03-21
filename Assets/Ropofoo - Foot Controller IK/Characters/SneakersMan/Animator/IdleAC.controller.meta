@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1b5f3182d6aaa2944a567bccbc5273cf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 237606
+  packageName: Ropofoo - Foot Controller IK
+  packageVersion: Version 1.1
+  assetPath: Assets/Ropofoo - Foot Controller IK/Characters/SneakersMan/Animator/IdleAC.controller
+  uploadId: 715219
